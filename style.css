@@ -116,3 +116,21 @@ hr{
     font-size: 1.5rem;
     border-radius: 5%; 
   }
+
+
+  .section-two{
+      display: flex;
+      flex-flow: row wrap;
+  }
+
+  .section-two > div{
+      
+      width: 50%;
+  }
+
+  footer{
+      width: 100%;
+      display: flex;
+      justify-content:start;
+  }
+  
